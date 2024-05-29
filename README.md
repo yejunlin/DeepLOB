@@ -1,4 +1,4 @@
-# Improve and implement Of DeepLOB And It's Application using C++
+# Implement Of DeepLOB And It's Application Using C++
 ## Summary
 This project is used to implement the DeepLOB refer to "DeepLOB: Deep Convolutional Neural Networks for Limit Order Books", published in IEEE Transactions on Singal Processing. It also contains another app used to generate some random value of the stock and use the model to predict the movement of the stock.
 ## Project Structure
