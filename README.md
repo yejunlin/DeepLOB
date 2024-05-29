@@ -29,6 +29,6 @@ AE-DeepLOB is a modified version of DeepLOB, I introduced Auto Encoder to the va
 
 Some code include the usage of CUDA, please uncomment the relate code if you are using CPU
 
-the main.cpp needs a libtorch, please download the coordinate version from PyTorch. The version of libtorch and torch should be the same
+The main.cpp needs a libtorch, please download the coordinate version from PyTorch. The version of libtorch and torch should be the same
 
 The project runs on torch version 1.9.0+cu111, other version of torch may not be tested
